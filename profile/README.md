@@ -10,7 +10,7 @@ OpenSteamworks is a library you can use to interface with the ClientAPI. It is r
 ## Repos and their uses
 | Repository  | Purpose | Language |
 | ------------- | ------------- | - |
-| [OpenSteamworks](https://github.com/OpenSteamClient/OpenSteamworks/OpenSteamworks) | ClientAPI bindings | C# |
+| [OpenSteamworks](https://github.com/OpenSteamClient/OpenSteamworks) | ClientAPI bindings | C# |
 | [OpenSteamClient](https://github.com/OpenSteamClient/OpenSteamClient) | An open-source frontend for Steam, powered by C# and Avalonia | C# |
 | [OpenSteamworks.Native](https://github.com/OpenSteamClient/OpenSteamworks.Native) | Native support libraries to fill in some gaps | C#, C++ |
 | [OpenSteamworks.Utils](https://github.com/OpenSteamClient/OpenSteamworks.Utils) | Misc OpenSteamworks utils, shared between projects | C# |
